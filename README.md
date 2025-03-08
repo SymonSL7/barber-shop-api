@@ -3,7 +3,7 @@
 
 ## 💻 Descrição
 # Barber Shop Api
-Criando uma API para conectar com o ![Front-End do agendamento para Barbearia](https://github.com/SymonSL7/barber-shop-ui) usando Java com Spring Boot, usando JPA com Hibernate para salvar os dados no PostgresSQL, gerenciando as migrations do banco de Dados com Flyway.
+Criando uma API para conectar com o [Front-End do agendamento para Barbearia](https://github.com/SymonSL7/barber-shop-ui) usando Java com Spring Boot, usando JPA com Hibernate para salvar os dados no PostgresSQL, gerenciando as migrations do banco de Dados com Flyway.
 
 ## 🛠️ Habilidades
 
