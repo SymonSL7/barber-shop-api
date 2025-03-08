@@ -7,11 +7,11 @@ Criando uma API para conectar com o [Front-End do agendamento para Barbearia](ht
 
 ## 🛠️ Habilidades
 
-![Java](https://img.shields.io/badge/Java-001?style=for-the-badge&logo=java&logoColor)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor)
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor)
 
-![Gradle](https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=gradle&logoColor)
+![Gradle](https://img.shields.io/badge/Gradle-001?style=for-the-badge&logo=gradle&logoColor)
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot&logoColor)
 
