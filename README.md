@@ -7,15 +7,15 @@ Criando uma API para conectar com o [Front-End do agendamento para Barbearia](ht
 
 ## 🛠️ Habilidades
 
-![Java](https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor)
+![Java](https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=fff)
 
-![SQL](https://img.shields.io/badge/SQL-0077B5?style=for-the-badge&logo=sql&logoColor)
+![SQL](https://img.shields.io/badge/SQL-0077B5?style=for-the-badge&logo=sql&logoColor=fff)
 
-![Gradle](https://img.shields.io/badge/Gradle-0077B5?style=for-the-badge&logo=gradle&logoColor)
+![Gradle](https://img.shields.io/badge/Gradle-0077B5?style=for-the-badge&logo=gradle&logoColor=fff)
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-0077B5?style=for-the-badge&logo=springboot&logoColor)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-0077B5?style=for-the-badge&logo=springboot&logoColor=fff)
 
-![Docker](https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor)
+![Docker](https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=fff)
 
 
 ## Conecte-se comigo
